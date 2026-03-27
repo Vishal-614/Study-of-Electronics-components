@@ -44,6 +44,8 @@ Electronic components are available in different packages, such as through-hole 
 
 
 # EXPECTED OUTPUT:
+[Electronics component study exp.xlsx](https://github.com/user-attachments/files/26309569/Electronics.component.study.exp.xlsx)
+
 
  
 # RESULT:
