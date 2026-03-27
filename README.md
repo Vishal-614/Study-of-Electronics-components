@@ -45,6 +45,7 @@ Electronic components are available in different packages, such as through-hole 
 
 # EXPECTED OUTPUT:
 
+
  
 # RESULT:
 Thus, the basic electronic components such as resistor, capacitor, diode, transistor, and inductor were studied and their functions and specifications were understood.
